@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hipolito\\Documents\\Lucas Hipolito\\Repositório\\MVC\\LucasMVC\\LucasMVC\\LucasMVC.csproj",
+      "projectUniqueName": "C:\\Users\\hipolito\\Documents\\Lucas Hipolito\\Repositório\\MVC\\LucasMVC\\MVC_Study\\LucasMVC\\LucasMVC.csproj",
       "projectName": "LucasMVC",
-      "projectPath": "C:\\Users\\hipolito\\Documents\\Lucas Hipolito\\Repositório\\MVC\\LucasMVC\\LucasMVC\\LucasMVC.csproj",
+      "projectPath": "C:\\Users\\hipolito\\Documents\\Lucas Hipolito\\Repositório\\MVC\\LucasMVC\\MVC_Study\\LucasMVC\\LucasMVC.csproj",
       "packagesPath": "C:\\Users\\hipolito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hipolito\\Documents\\Lucas Hipolito\\Repositório\\MVC\\LucasMVC\\LucasMVC\\obj\\",
+      "outputPath": "C:\\Users\\hipolito\\Documents\\Lucas Hipolito\\Repositório\\MVC\\LucasMVC\\MVC_Study\\LucasMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11818,6 +11818,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://bbrasteam/nuget/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
